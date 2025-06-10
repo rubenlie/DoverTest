@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicorWave", "MicorWave\MicorWave.csproj", "{2FB4360D-D40E-4D74-AD6C-C9D40A4A120A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiroWave", "MiroWave\MiroWave.csproj", "{2FB4360D-D40E-4D74-AD6C-C9D40A4A120A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicorWave.Tests", "MicorWave.Tests\MicorWave.Tests.csproj", "{8344D23A-0E08-41E3-8D40-E3F69FFAFC94}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroWave.Tests", "MicroWave.Tests\MicroWave.Tests.csproj", "{8344D23A-0E08-41E3-8D40-E3F69FFAFC94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
